@@ -1,27 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # EDU_BOOKS
 
 ## サイト概要
@@ -37,9 +13,14 @@ Things you may want to cover:
 現職の教員
 
 ### 主な利用シーン
-現職の教員が学習計画や学習指導案を作成したり、長期休暇中に教育についての知識を深めたりする時に読む参考書を探すことができる
+現職の教員が学習計画や学習指導案を作成したり、長期休暇中に教育についての知識を深めたりする時に読む参考書を探すことができます。
 
 ## 設計書
+ワイヤーフレーム
+https://app.diagrams.net/#G1dO2wIJI13eQNhd_M1_YbKLjYi-ST8eTA
+ER図
+テーブル定義書
+アプリケーション設計書
 
 ### 機能一覧
 https://docs.google.com/spreadsheets/d/1hweDzkTENGHjIp6x6wEWJNfkmyPLCFlDie-Q6Cjczb0/edit#gid=0
