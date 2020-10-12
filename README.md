@@ -16,11 +16,14 @@
 現職の教員が学習計画や学習指導案を作成したり、長期休暇中に教育についての知識を深めたりする時に読む参考書を探すことができます。
 
 ## 設計書
-ワイヤーフレーム
+## ワイヤーフレーム
 https://app.diagrams.net/#G1dO2wIJI13eQNhd_M1_YbKLjYi-ST8eTA
-ER図
-テーブル定義書
-アプリケーション設計書
+## ER図
+https://app.diagrams.net/#G1WOIjMFzrVBQkSCm1TYysC-Mjrx5WrHU0
+## テーブル定義書
+https://docs.google.com/spreadsheets/d/1k5zM8SpQQBXgi0BxIolJ1o0JQp0DkknM/edit#gid=1189053866
+## アプリケーション設計書
+https://docs.google.com/spreadsheets/d/1uLOcB9EEKHzxSvbyERxxVh2foub-X9fo/edit#gid=1975272651
 
 ### 機能一覧
 https://docs.google.com/spreadsheets/d/1hweDzkTENGHjIp6x6wEWJNfkmyPLCFlDie-Q6Cjczb0/edit#gid=0
