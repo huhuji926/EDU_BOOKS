@@ -9,6 +9,10 @@ class BooksController < ApplicationController
 		@user = @book.user
 	end
 
+	def new
+		@book = Book.new
+	end
+
 	def create
 		@user = current_user
 		@book = Book.new(book_params)
@@ -25,6 +29,11 @@ class BooksController < ApplicationController
 	def edit
 		@book = Book.find(params[:id])
 		if @book.user_id != current_user.id
-			redirect
+			redirect books_path
+		end
+	end
+	private
+	def book_params
+		params.require(:book).permit(:title, :body, :book_image, :tag, :author, :company, :year)	
 	end
 end
